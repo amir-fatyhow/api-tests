@@ -1,0 +1,17 @@
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Newman отчёты
+newman/
+report.xml
+*.html
+
+# Node.js
+node_modules/
+
+# Логи
+*.log
